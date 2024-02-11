@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unveiling Customer Secrets: K-Means Clustering and the Elbow Method</title>
 </head>
 <body>
     <h1>Unveiling Customer Secrets: K-Means Clustering and the Elbow Method</h1>
