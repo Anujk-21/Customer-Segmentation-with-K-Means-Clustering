@@ -5,22 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Unveiling Customer Secrets: K-Means Clustering and the Elbow Method</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            margin-bottom: 10px;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 5px;
-        }
-    </style>
 </head>
 <body>
     <h1>Unveiling Customer Secrets: K-Means Clustering and the Elbow Method</h1>
